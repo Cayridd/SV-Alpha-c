@@ -1,0 +1,1 @@
+This is a mock backend structure for ScrimVault alpha.
